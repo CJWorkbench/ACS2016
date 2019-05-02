@@ -7,38 +7,106 @@
         "name": "Topic",
         "id_name": "topic",
         "type": "menu",
-        "menu_items": "Age|Sex|Race|Household Income|Poverty|Transportation to Work|Population by Household Type|Martial Status by Sex|Women Who Gave Birth During Past Year, by Age Group|Occupied vs. Vacant Housing|Ownership of Occupied Units|Types of Structure|Year Moved In, by Population|Value of Owner-occupied Housing Units|Population Migration Since Previous Year|Population by Minimum Level of Education|Language at Home, Children 5-17|Language at Home, Adults 18+|Place of Birth for Foreign-born Population|Veterans by Wartime Service"
+        "default": "age",
+        "options": [
+          { "value": "age", "label": "Age" },
+          { "value": "sex", "label": "Sex" },
+          { "value": "race", "label": "Race" },
+          { "value": "household_income", "label": "Household Income" },
+          { "value": "poverty", "label": "Poverty" },
+          { "value": "transportation_to_work", "label": "Transportation to Work" },
+          { "value": "population_by_household_type", "label": "Population by Household Type" },
+          { "value": "marital_status_by_sex", "label": "Martial Status by Sex" },
+          { "value": "women_who_gave_birth_by_age", "label": "Women Who Gave Birth During Past Year, by Age Group" },
+          { "value": "occupied_vs_vacant_housing", "label": "Occupied vs. Vacant Housing" },
+          { "value": "ownership_of_occupied_units", "label": "Ownership of Occupied Units" },
+          { "value": "types_of_structure", "label": "Types of Structure" },
+          { "value": "year_moved_in_by_population", "label": "Year Moved In, by Population" },
+          { "value": "value_of_owner_occupied_housing_units", "label": "Value of Owner-occupied Housing Units" },
+          { "value": "population_migration_since_previous_year", "label": "Population Migration Since Previous Year" },
+          { "value": "population_by_minimum_level_of_education", "label": "Population by Minimum Level of Education" },
+          { "value": "language_at_home_children", "label": "Language at Home, Children 5-17" },
+          { "value": "language_at_home_adults", "label": "Language at Home, Adults 18+" },
+          { "value": "place_of_birth_for_foreign_born_population", "label": "Place of Birth for Foreign-born Population" },
+          { "value": "veterans_by_wartime_service", "label": "Veterans by Wartime Service" }
+        ]
     }, {
         "name": "Summary Level",
         "id_name": "sumlevel",
         "type": "menu",
-        "menu_items": "States in US|Counties|Places|Metro Areas"
+        "default": "all_states",
+        "options": [
+            { "value": "all_states", "label": "States in US" },
+            { "value": "counties", "label": "Counties" },
+            { "value": "places", "label": "Places" },
+            { "value": "metro_areas", "label": "Metro Areas" }
+        ]
     }, {
+        "id_name": "statecode",
         "name": "Select a state:",
-        "id_name": "states-for-counties",
         "type": "menu",
-        "menu_items": "Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|District of Columbia|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming|American Samoa|Guam|Commonwealth of the Northern Mariana Islands|Puerto Rico|United States Virgin Islands",
+        "default": "al",
+        "options": [
+            { "value": "al", "label": "Alabama" },
+            { "value": "ak", "label": "Alaska" },
+            { "value": "az", "label": "Arizona" },
+            { "value": "ar", "label": "Arkansas" },
+            { "value": "ca", "label": "California" },
+            { "value": "co", "label": "Colorado" },
+            { "value": "ct", "label": "Connecticut" },
+            { "value": "de", "label": "Delaware" },
+            { "value": "dc", "label": "District of Columbia" },
+            { "value": "fl", "label": "Florida" },
+            { "value": "ga", "label": "Georgia" },
+            { "value": "hi", "label": "Hawaii" },
+            { "value": "id", "label": "Idaho" },
+            { "value": "il", "label": "Illinois" },
+            { "value": "in", "label": "Indiana" },
+            { "value": "ia", "label": "Iowa" },
+            { "value": "ks", "label": "Kansas" },
+            { "value": "ky", "label": "Kentucky" },
+            { "value": "la", "label": "Louisiana" },
+            { "value": "me", "label": "Maine" },
+            { "value": "md", "label": "Maryland" },
+            { "value": "ma", "label": "Massachusetts" },
+            { "value": "mi", "label": "Michigan" },
+            { "value": "mn", "label": "Minnesota" },
+            { "value": "ms", "label": "Mississippi" },
+            { "value": "mo", "label": "Missouri" },
+            { "value": "mt", "label": "Montana" },
+            { "value": "ne", "label": "Nebraska" },
+            { "value": "nv", "label": "Nevada" },
+            { "value": "nh", "label": "New Hampshire" },
+            { "value": "nj", "label": "New Jersey" },
+            { "value": "nm", "label": "New Mexico" },
+            { "value": "ny", "label": "New York" },
+            { "value": "nc", "label": "North Carolina" },
+            { "value": "nd", "label": "North Dakota" },
+            { "value": "oh", "label": "Ohio" },
+            { "value": "ok", "label": "Oklahoma" },
+            { "value": "or", "label": "Oregon" },
+            { "value": "pa", "label": "Pennsylvania" },
+            { "value": "ri", "label": "Rhode Island" },
+            { "value": "sc", "label": "South Carolina" },
+            { "value": "sd", "label": "South Dakota" },
+            { "value": "tn", "label": "Tennessee" },
+            { "value": "tx", "label": "Texas" },
+            { "value": "ut", "label": "Utah" },
+            { "value": "vt", "label": "Vermont" },
+            { "value": "va", "label": "Virginia" },
+            { "value": "wa", "label": "Washington" },
+            { "value": "wv", "label": "West Virginia" },
+            { "value": "wi", "label": "Wisconsin" },
+            { "value": "wy", "label": "Wyoming" },
+            { "value": "as", "label": "American Samoa" },
+            { "value": "gu", "label": "Guam" },
+            { "value": "mp", "label": "Commonwealth of the Northern Marianas" },
+            { "value": "pr", "label": "Puerto Rico" },
+            { "value": "vi", "label": "United States Virgin Islands" }
+        ],
         "visible_if": {
             "id_name": "sumlevel",
-            "value": "Counties"
-        }
-    }, {
-        "name": "Select a state:",
-        "id_name": "states-for-places",
-        "type": "menu",
-        "menu_items": "Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|District of Columbia|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming|American Samoa|Guam|Commonwealth of the Northern Mariana Islands|Puerto Rico|United States Virgin Islands",
-        "visible_if": {
-            "id_name": "sumlevel",
-            "value": "Places"
-        }
-    }, {
-        "name": "Select a state:",
-        "id_name": "states-for-metro-areas",
-        "type": "menu",
-        "menu_items": "Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|District of Columbia|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming|American Samoa|Guam|Commonwealth of the Northern Mariana Islands|Puerto Rico|United States Virgin Islands",
-        "visible_if": {
-            "id_name": "sumlevel",
-            "value": "Metro Areas"
+            "value": [ "counties", "places", "metro_areas" ]
         }
     }]
 }
