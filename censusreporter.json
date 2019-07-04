@@ -3,6 +3,7 @@
     "id_name": "ACS2016",
     "category": "Add data",
     "description": "Import ACS data using the Census Reporter API.",
+    "icon": "census",
     "loads_data": true,
     "parameters": [{
         "name": "Topic",
