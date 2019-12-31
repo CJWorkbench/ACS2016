@@ -4,7 +4,7 @@
     "category": "Add data",
     "description": "Import data from the 2017 American Community Survey.",
     "icon": "census",
-    "help_url":"steps/add-data/u-s-community-survey",
+    "help_url":"http://help.workbenchdata.com/en/articles/2494357-u-s-community-survey",
     "loads_data": true,
     "parameters": [{
         "name": "Topic",
