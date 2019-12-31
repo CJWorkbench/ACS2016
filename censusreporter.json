@@ -2,7 +2,7 @@
     "name": "American Community Survey",
     "id_name": "ACS2016",
     "category": "Add data",
-    "description": "Import ACS data using the Census Reporter API.",
+    "description": "Import data from the 2017 American Community Survey.",
     "icon": "census",
     "help_url":"steps/add-data/u-s-community-survey",
     "loads_data": true,
