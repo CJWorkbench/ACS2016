@@ -4,7 +4,7 @@
     "category": "Add data",
     "description": "Import data from the 2017 American Community Survey.",
     "icon": "census",
-    "help_url":"2494357",
+    "help_url":"en/articles/2494357",
     "loads_data": true,
     "parameters": [{
         "name": "Topic",
