@@ -1,0 +1,276 @@
+# Greek translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-01-07 06:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"Language-Team: el <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+msgid "_spec.name"
+msgstr ""
+
+msgid "_spec.description"
+msgstr ""
+
+msgid "_spec.parameters.topic.name"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.age.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.sex.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.race.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.household_income.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.poverty.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.transportation_to_work.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.population_by_household_type.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.marital_status_by_sex.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.women_who_gave_birth_by_age.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.occupied_vs_vacant_housing.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.ownership_of_occupied_units.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.types_of_structure.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.year_moved_in_by_population.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.value_of_owner_occupied_housing_units.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.population_migration_since_previous_year.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.population_by_minimum_level_of_education.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.language_at_home_children.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.language_at_home_adults.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.place_of_birth_for_foreign_born_population.label"
+msgstr ""
+
+msgid "_spec.parameters.topic.options.veterans_by_wartime_service.label"
+msgstr ""
+
+msgid "_spec.parameters.sumlevel.name"
+msgstr ""
+
+msgid "_spec.parameters.sumlevel.options.all_states.label"
+msgstr ""
+
+msgid "_spec.parameters.sumlevel.options.counties.label"
+msgstr ""
+
+msgid "_spec.parameters.sumlevel.options.places.label"
+msgstr ""
+
+msgid "_spec.parameters.sumlevel.options.metro_areas.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.name"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.al.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ak.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.az.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ar.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ca.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.co.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ct.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.de.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.dc.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.fl.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ga.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.hi.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.id.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.il.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.in.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ia.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ks.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ky.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.la.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.me.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.md.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ma.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.mi.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.mn.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ms.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.mo.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.mt.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ne.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.nv.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.nh.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.nj.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.nm.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ny.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.nc.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.nd.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.oh.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ok.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.or.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.pa.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ri.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.sc.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.sd.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.tn.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.tx.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.ut.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.vt.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.va.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.wa.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.wv.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.wi.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.wy.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.as.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.gu.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.mp.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.pr.label"
+msgstr ""
+
+msgid "_spec.parameters.statecode.options.vi.label"
+msgstr ""
+
