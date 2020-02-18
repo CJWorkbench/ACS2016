@@ -1,5 +1,5 @@
 import unittest
-from censusreporter import migrate_params
+from ACS2016 import migrate_params
 
 
 class MigrateParamsTest(unittest.TestCase):

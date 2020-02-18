@@ -1,0 +1,276 @@
+# English translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-01-07 06:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+msgid "_spec.name"
+msgstr "American Community Survey"
+
+msgid "_spec.description"
+msgstr "Import data from the 2017 American Community Survey."
+
+msgid "_spec.parameters.topic.name"
+msgstr "Topic"
+
+msgid "_spec.parameters.topic.options.age.label"
+msgstr "Age"
+
+msgid "_spec.parameters.topic.options.sex.label"
+msgstr "Sex"
+
+msgid "_spec.parameters.topic.options.race.label"
+msgstr "Race"
+
+msgid "_spec.parameters.topic.options.household_income.label"
+msgstr "Household Income"
+
+msgid "_spec.parameters.topic.options.poverty.label"
+msgstr "Poverty"
+
+msgid "_spec.parameters.topic.options.transportation_to_work.label"
+msgstr "Transportation to Work"
+
+msgid "_spec.parameters.topic.options.population_by_household_type.label"
+msgstr "Population by Household Type"
+
+msgid "_spec.parameters.topic.options.marital_status_by_sex.label"
+msgstr "Martial Status by Sex"
+
+msgid "_spec.parameters.topic.options.women_who_gave_birth_by_age.label"
+msgstr "Women Who Gave Birth During Past Year, by Age Group"
+
+msgid "_spec.parameters.topic.options.occupied_vs_vacant_housing.label"
+msgstr "Occupied vs. Vacant Housing"
+
+msgid "_spec.parameters.topic.options.ownership_of_occupied_units.label"
+msgstr "Ownership of Occupied Units"
+
+msgid "_spec.parameters.topic.options.types_of_structure.label"
+msgstr "Types of Structure"
+
+msgid "_spec.parameters.topic.options.year_moved_in_by_population.label"
+msgstr "Year Moved In, by Population"
+
+msgid "_spec.parameters.topic.options.value_of_owner_occupied_housing_units.label"
+msgstr "Value of Owner-occupied Housing Units"
+
+msgid "_spec.parameters.topic.options.population_migration_since_previous_year.label"
+msgstr "Population Migration Since Previous Year"
+
+msgid "_spec.parameters.topic.options.population_by_minimum_level_of_education.label"
+msgstr "Population by Minimum Level of Education"
+
+msgid "_spec.parameters.topic.options.language_at_home_children.label"
+msgstr "Language at Home, Children 5-17"
+
+msgid "_spec.parameters.topic.options.language_at_home_adults.label"
+msgstr "Language at Home, Adults 18+"
+
+msgid "_spec.parameters.topic.options.place_of_birth_for_foreign_born_population.label"
+msgstr "Place of Birth for Foreign-born Population"
+
+msgid "_spec.parameters.topic.options.veterans_by_wartime_service.label"
+msgstr "Veterans by Wartime Service"
+
+msgid "_spec.parameters.sumlevel.name"
+msgstr "Summary Level"
+
+msgid "_spec.parameters.sumlevel.options.all_states.label"
+msgstr "States in US"
+
+msgid "_spec.parameters.sumlevel.options.counties.label"
+msgstr "Counties"
+
+msgid "_spec.parameters.sumlevel.options.places.label"
+msgstr "Places"
+
+msgid "_spec.parameters.sumlevel.options.metro_areas.label"
+msgstr "Metro Areas"
+
+msgid "_spec.parameters.statecode.name"
+msgstr "Select a state:"
+
+msgid "_spec.parameters.statecode.options.al.label"
+msgstr "Alabama"
+
+msgid "_spec.parameters.statecode.options.ak.label"
+msgstr "Alaska"
+
+msgid "_spec.parameters.statecode.options.az.label"
+msgstr "Arizona"
+
+msgid "_spec.parameters.statecode.options.ar.label"
+msgstr "Arkansas"
+
+msgid "_spec.parameters.statecode.options.ca.label"
+msgstr "California"
+
+msgid "_spec.parameters.statecode.options.co.label"
+msgstr "Colorado"
+
+msgid "_spec.parameters.statecode.options.ct.label"
+msgstr "Connecticut"
+
+msgid "_spec.parameters.statecode.options.de.label"
+msgstr "Delaware"
+
+msgid "_spec.parameters.statecode.options.dc.label"
+msgstr "District of Columbia"
+
+msgid "_spec.parameters.statecode.options.fl.label"
+msgstr "Florida"
+
+msgid "_spec.parameters.statecode.options.ga.label"
+msgstr "Georgia"
+
+msgid "_spec.parameters.statecode.options.hi.label"
+msgstr "Hawaii"
+
+msgid "_spec.parameters.statecode.options.id.label"
+msgstr "Idaho"
+
+msgid "_spec.parameters.statecode.options.il.label"
+msgstr "Illinois"
+
+msgid "_spec.parameters.statecode.options.in.label"
+msgstr "Indiana"
+
+msgid "_spec.parameters.statecode.options.ia.label"
+msgstr "Iowa"
+
+msgid "_spec.parameters.statecode.options.ks.label"
+msgstr "Kansas"
+
+msgid "_spec.parameters.statecode.options.ky.label"
+msgstr "Kentucky"
+
+msgid "_spec.parameters.statecode.options.la.label"
+msgstr "Louisiana"
+
+msgid "_spec.parameters.statecode.options.me.label"
+msgstr "Maine"
+
+msgid "_spec.parameters.statecode.options.md.label"
+msgstr "Maryland"
+
+msgid "_spec.parameters.statecode.options.ma.label"
+msgstr "Massachusetts"
+
+msgid "_spec.parameters.statecode.options.mi.label"
+msgstr "Michigan"
+
+msgid "_spec.parameters.statecode.options.mn.label"
+msgstr "Minnesota"
+
+msgid "_spec.parameters.statecode.options.ms.label"
+msgstr "Mississippi"
+
+msgid "_spec.parameters.statecode.options.mo.label"
+msgstr "Missouri"
+
+msgid "_spec.parameters.statecode.options.mt.label"
+msgstr "Montana"
+
+msgid "_spec.parameters.statecode.options.ne.label"
+msgstr "Nebraska"
+
+msgid "_spec.parameters.statecode.options.nv.label"
+msgstr "Nevada"
+
+msgid "_spec.parameters.statecode.options.nh.label"
+msgstr "New Hampshire"
+
+msgid "_spec.parameters.statecode.options.nj.label"
+msgstr "New Jersey"
+
+msgid "_spec.parameters.statecode.options.nm.label"
+msgstr "New Mexico"
+
+msgid "_spec.parameters.statecode.options.ny.label"
+msgstr "New York"
+
+msgid "_spec.parameters.statecode.options.nc.label"
+msgstr "North Carolina"
+
+msgid "_spec.parameters.statecode.options.nd.label"
+msgstr "North Dakota"
+
+msgid "_spec.parameters.statecode.options.oh.label"
+msgstr "Ohio"
+
+msgid "_spec.parameters.statecode.options.ok.label"
+msgstr "Oklahoma"
+
+msgid "_spec.parameters.statecode.options.or.label"
+msgstr "Oregon"
+
+msgid "_spec.parameters.statecode.options.pa.label"
+msgstr "Pennsylvania"
+
+msgid "_spec.parameters.statecode.options.ri.label"
+msgstr "Rhode Island"
+
+msgid "_spec.parameters.statecode.options.sc.label"
+msgstr "South Carolina"
+
+msgid "_spec.parameters.statecode.options.sd.label"
+msgstr "South Dakota"
+
+msgid "_spec.parameters.statecode.options.tn.label"
+msgstr "Tennessee"
+
+msgid "_spec.parameters.statecode.options.tx.label"
+msgstr "Texas"
+
+msgid "_spec.parameters.statecode.options.ut.label"
+msgstr "Utah"
+
+msgid "_spec.parameters.statecode.options.vt.label"
+msgstr "Vermont"
+
+msgid "_spec.parameters.statecode.options.va.label"
+msgstr "Virginia"
+
+msgid "_spec.parameters.statecode.options.wa.label"
+msgstr "Washington"
+
+msgid "_spec.parameters.statecode.options.wv.label"
+msgstr "West Virginia"
+
+msgid "_spec.parameters.statecode.options.wi.label"
+msgstr "Wisconsin"
+
+msgid "_spec.parameters.statecode.options.wy.label"
+msgstr "Wyoming"
+
+msgid "_spec.parameters.statecode.options.as.label"
+msgstr "American Samoa"
+
+msgid "_spec.parameters.statecode.options.gu.label"
+msgstr "Guam"
+
+msgid "_spec.parameters.statecode.options.mp.label"
+msgstr "Commonwealth of the Northern Marianas"
+
+msgid "_spec.parameters.statecode.options.pr.label"
+msgstr "Puerto Rico"
+
+msgid "_spec.parameters.statecode.options.vi.label"
+msgstr "United States Virgin Islands"
+
