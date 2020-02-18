@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-07 06:43+0000\n"
+"POT-Creation-Date: 2020-02-18 14:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -17,260 +17,260 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 msgid "_spec.name"
-msgstr ""
+msgstr "American Community Survey"
 
 msgid "_spec.description"
-msgstr ""
+msgstr "Εισαγωγή δεδομένων από την έρευνα του 2017 «American Community Survey»"
 
 msgid "_spec.parameters.topic.name"
-msgstr ""
+msgstr "Θέμα"
 
 msgid "_spec.parameters.topic.options.age.label"
-msgstr ""
+msgstr "Ηλικία"
 
 msgid "_spec.parameters.topic.options.sex.label"
-msgstr ""
+msgstr "Φύλο"
 
 msgid "_spec.parameters.topic.options.race.label"
-msgstr ""
+msgstr "Φυλή"
 
 msgid "_spec.parameters.topic.options.household_income.label"
-msgstr ""
+msgstr "Εισόδημα νοικοκυριού"
 
 msgid "_spec.parameters.topic.options.poverty.label"
-msgstr ""
+msgstr "Φτώχεια"
 
 msgid "_spec.parameters.topic.options.transportation_to_work.label"
-msgstr ""
+msgstr "Μεταφορά στην εργασία"
 
 msgid "_spec.parameters.topic.options.population_by_household_type.label"
-msgstr ""
+msgstr "Πληθυσμός ανά τύπο νοικοκυριού"
 
 msgid "_spec.parameters.topic.options.marital_status_by_sex.label"
-msgstr ""
+msgstr "Οικογενειακή κατάσταση κατά φύλο"
 
 msgid "_spec.parameters.topic.options.women_who_gave_birth_by_age.label"
-msgstr ""
+msgstr "Γυναίκες που τεκνοποίησαν κατά το παρελθόν έτος, ανά ηλικιακή ομάδα"
 
 msgid "_spec.parameters.topic.options.occupied_vs_vacant_housing.label"
-msgstr ""
+msgstr "Κατοικούμενες/κενές κατοικίες"
 
 msgid "_spec.parameters.topic.options.ownership_of_occupied_units.label"
-msgstr ""
+msgstr "Ιδιοκτησία κατοικούμενων μονάδων"
 
 msgid "_spec.parameters.topic.options.types_of_structure.label"
-msgstr ""
+msgstr "Τύποι κατασκευών"
 
 msgid "_spec.parameters.topic.options.year_moved_in_by_population.label"
-msgstr ""
+msgstr "Έτος εγκατάστασης, κατά πληθυσμό"
 
 msgid "_spec.parameters.topic.options.value_of_owner_occupied_housing_units.label"
-msgstr ""
+msgstr "Αξία ιδιοκατοικούμενων κατοικιών"
 
 msgid "_spec.parameters.topic.options.population_migration_since_previous_year.label"
-msgstr ""
+msgstr "Μετανάστευση πληθυσμού από το προηγούμενο έτος"
 
 msgid "_spec.parameters.topic.options.population_by_minimum_level_of_education.label"
-msgstr ""
+msgstr "Πληθυσμός κατά ελάχιστο επίπεδο εκπαίδευσης"
 
 msgid "_spec.parameters.topic.options.language_at_home_children.label"
-msgstr ""
+msgstr "Γλώσσα στο σπίτι, παιδιά 5-17"
 
 msgid "_spec.parameters.topic.options.language_at_home_adults.label"
-msgstr ""
+msgstr "Γλώσσα στο σπίτι, ενήλικοι 18+"
 
 msgid "_spec.parameters.topic.options.place_of_birth_for_foreign_born_population.label"
-msgstr ""
+msgstr "Τόπος γέννησης για αλλοδαπό πληθυσμό"
 
 msgid "_spec.parameters.topic.options.veterans_by_wartime_service.label"
-msgstr ""
+msgstr "Βετεράνοι ανά πολεμική θητεία"
 
 msgid "_spec.parameters.sumlevel.name"
-msgstr ""
+msgstr "Συνοπτικό επίπεδο"
 
 msgid "_spec.parameters.sumlevel.options.all_states.label"
-msgstr ""
+msgstr "Πολιτείες των ΗΠΑ"
 
 msgid "_spec.parameters.sumlevel.options.counties.label"
-msgstr ""
+msgstr "Κομητείες"
 
 msgid "_spec.parameters.sumlevel.options.places.label"
-msgstr ""
+msgstr "Τοποθεσίες"
 
 msgid "_spec.parameters.sumlevel.options.metro_areas.label"
-msgstr ""
+msgstr "Μητροπολιτικές περιοχές"
 
 msgid "_spec.parameters.statecode.name"
-msgstr ""
+msgstr "Επιλέξτε πολιτεία:"
 
 msgid "_spec.parameters.statecode.options.al.label"
-msgstr ""
+msgstr "Αλαμπάμα"
 
 msgid "_spec.parameters.statecode.options.ak.label"
-msgstr ""
+msgstr "Αλάσκα"
 
 msgid "_spec.parameters.statecode.options.az.label"
-msgstr ""
+msgstr "Αριζόνα"
 
 msgid "_spec.parameters.statecode.options.ar.label"
-msgstr ""
+msgstr "Αρκάνσας"
 
 msgid "_spec.parameters.statecode.options.ca.label"
-msgstr ""
+msgstr "Καλιφόρνια"
 
 msgid "_spec.parameters.statecode.options.co.label"
-msgstr ""
+msgstr "Κολοράντο"
 
 msgid "_spec.parameters.statecode.options.ct.label"
-msgstr ""
+msgstr "Κονέκτικατ"
 
 msgid "_spec.parameters.statecode.options.de.label"
-msgstr ""
+msgstr "Ντέλαγουερ"
 
 msgid "_spec.parameters.statecode.options.dc.label"
-msgstr ""
+msgstr "Περιφέρεια της Κολούμπια"
 
 msgid "_spec.parameters.statecode.options.fl.label"
-msgstr ""
+msgstr "Φλόριντα"
 
 msgid "_spec.parameters.statecode.options.ga.label"
-msgstr ""
+msgstr "Γεωργία"
 
 msgid "_spec.parameters.statecode.options.hi.label"
-msgstr ""
+msgstr "Χαβάη"
 
 msgid "_spec.parameters.statecode.options.id.label"
-msgstr ""
+msgstr "Αϊντάχο"
 
 msgid "_spec.parameters.statecode.options.il.label"
-msgstr ""
+msgstr "Ιλινόις"
 
 msgid "_spec.parameters.statecode.options.in.label"
-msgstr ""
+msgstr "Ιντιάνα"
 
 msgid "_spec.parameters.statecode.options.ia.label"
-msgstr ""
+msgstr "Αϊόβα"
 
 msgid "_spec.parameters.statecode.options.ks.label"
-msgstr ""
+msgstr "Κάνσας"
 
 msgid "_spec.parameters.statecode.options.ky.label"
-msgstr ""
+msgstr "Κεντάκι"
 
 msgid "_spec.parameters.statecode.options.la.label"
-msgstr ""
+msgstr "Λουιζιάνα"
 
 msgid "_spec.parameters.statecode.options.me.label"
-msgstr ""
+msgstr "Μέιν"
 
 msgid "_spec.parameters.statecode.options.md.label"
-msgstr ""
+msgstr "Μέριλαντ"
 
 msgid "_spec.parameters.statecode.options.ma.label"
-msgstr ""
+msgstr "Μασαχουσέτη"
 
 msgid "_spec.parameters.statecode.options.mi.label"
-msgstr ""
+msgstr "Μίσιγκαν"
 
 msgid "_spec.parameters.statecode.options.mn.label"
-msgstr ""
+msgstr "Μινεσότα"
 
 msgid "_spec.parameters.statecode.options.ms.label"
-msgstr ""
+msgstr "Μισισιπής"
 
 msgid "_spec.parameters.statecode.options.mo.label"
-msgstr ""
+msgstr "Μιζούρι"
 
 msgid "_spec.parameters.statecode.options.mt.label"
-msgstr ""
+msgstr "Μοντάνα"
 
 msgid "_spec.parameters.statecode.options.ne.label"
-msgstr ""
+msgstr "Νεμπράσκα"
 
 msgid "_spec.parameters.statecode.options.nv.label"
-msgstr ""
+msgstr "Νεβάδα"
 
 msgid "_spec.parameters.statecode.options.nh.label"
-msgstr ""
+msgstr "Νιου Χάμσαϊρ"
 
 msgid "_spec.parameters.statecode.options.nj.label"
-msgstr ""
+msgstr "Νιου Τζέρσεϊ"
 
 msgid "_spec.parameters.statecode.options.nm.label"
-msgstr ""
+msgstr "Νέο Μεξικό"
 
 msgid "_spec.parameters.statecode.options.ny.label"
-msgstr ""
+msgstr "Νέα Υόρκη"
 
 msgid "_spec.parameters.statecode.options.nc.label"
-msgstr ""
+msgstr "Βόρεια Καρολίνα"
 
 msgid "_spec.parameters.statecode.options.nd.label"
-msgstr ""
+msgstr "Βόρεια Ντακότα"
 
 msgid "_spec.parameters.statecode.options.oh.label"
-msgstr ""
+msgstr "Οχάιο"
 
 msgid "_spec.parameters.statecode.options.ok.label"
-msgstr ""
+msgstr "Οκλαχόμα"
 
 msgid "_spec.parameters.statecode.options.or.label"
-msgstr ""
+msgstr "Όρεγκον"
 
 msgid "_spec.parameters.statecode.options.pa.label"
-msgstr ""
+msgstr "Πενσυλβανία"
 
 msgid "_spec.parameters.statecode.options.ri.label"
-msgstr ""
+msgstr "Ρόουντ Άιλαντ"
 
 msgid "_spec.parameters.statecode.options.sc.label"
-msgstr ""
+msgstr "Νότια Καρολίνα"
 
 msgid "_spec.parameters.statecode.options.sd.label"
-msgstr ""
+msgstr "Νότια Ντακότα"
 
 msgid "_spec.parameters.statecode.options.tn.label"
-msgstr ""
+msgstr "Τενεσί"
 
 msgid "_spec.parameters.statecode.options.tx.label"
-msgstr ""
+msgstr "Τέξας"
 
 msgid "_spec.parameters.statecode.options.ut.label"
-msgstr ""
+msgstr "Γιούτα"
 
 msgid "_spec.parameters.statecode.options.vt.label"
-msgstr ""
+msgstr "Βερμόντ"
 
 msgid "_spec.parameters.statecode.options.va.label"
-msgstr ""
+msgstr "Βιρτζίνια"
 
 msgid "_spec.parameters.statecode.options.wa.label"
-msgstr ""
+msgstr "Ουάσιγκτον"
 
 msgid "_spec.parameters.statecode.options.wv.label"
-msgstr ""
+msgstr "Δυτική Βιρτζίνια"
 
 msgid "_spec.parameters.statecode.options.wi.label"
-msgstr ""
+msgstr "Ουισκόνσιν"
 
 msgid "_spec.parameters.statecode.options.wy.label"
-msgstr ""
+msgstr "Ουαϊόμινγκ"
 
 msgid "_spec.parameters.statecode.options.as.label"
-msgstr ""
+msgstr "Αμερικάνικη Σαμόα"
 
 msgid "_spec.parameters.statecode.options.gu.label"
-msgstr ""
+msgstr "Γκουάμ"
 
 msgid "_spec.parameters.statecode.options.mp.label"
-msgstr ""
+msgstr "Κοινοπολιτεία των Βόρειων Μαριάνων"
 
 msgid "_spec.parameters.statecode.options.pr.label"
-msgstr ""
+msgstr "Πουέρτο Ρίκο"
 
 msgid "_spec.parameters.statecode.options.vi.label"
-msgstr ""
+msgstr "Αμερικάνικες Παρθένοι Νήσοι"
 
